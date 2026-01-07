@@ -5,6 +5,9 @@ The analysis is related to a case study presented by the Google Data Analytics t
 
 The data has been processed and analyzed in R but could be done through spreadhsheets or SQL as well.
 
+Summary of Case Study: This case study analyzes how Cyclistic, a fictional Chicago-based bike-share company, can increase long-term revenue by converting casual riders into annual members. As part of the marketing analytics team, the analysis follows a structured data analysis process to examine historical trip data and uncover differences in how casual riders and annual members use Cyclistic bikes. By identifying behavioral trends and usage patterns, the project aims to generate data-backed insights that inform targeted marketing strategies. These insights are designed to support executive decision-making and help Cyclistic prioritize annual memberships as a key driver of sustainable growth.
+
+
 Sources Used: 
 Divvy 2019 Q1 dataset by Motivate International Inc. under their license (https://divvybikes.com/data-license-agreement).
 Divvy 2020 Q1 dataset by Motivate International Inc. under their license (https://divvybikes.com/data-license-agreement).
